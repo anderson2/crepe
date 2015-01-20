@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  base_cents: 1
+  sale_cents: 1
+  game_id: 
+  store_id: 
+
+two:
+  base_cents: 1
+  sale_cents: 1
+  game_id: 
+  store_id: 
