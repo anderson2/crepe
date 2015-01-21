@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0',group: :doc
 gem 'nokogiri'
 gem 'rest-client'
 gem 'puma'
+gem 'sidekiq'
 
 group :development do
   gem 'spring'
